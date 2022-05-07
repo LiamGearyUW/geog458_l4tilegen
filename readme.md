@@ -13,3 +13,5 @@ For this lab, we're looking at Seattle. This is because I have some familiarity 
 Zoom levels are set to a minimum of 0 and a maximum of 10 for each tileset. I initially did 16, but that took way too long and I couldn't upload it all.
 
 The first tileset simply changes to a light basemap with green greenspaces and blue water. The second shows the centers of SPD precincts. The third shows both the light basemap and the centers of SPD precincts. finally, the fourth tileset is a basemap with police-themed colors. 
+
+https://liamgearyuw.github.io/geog458_l4tilegen/
